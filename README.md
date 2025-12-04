@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickson-majawa
-- 👀 I’m interested in Software Engineering
-- 🌱 I have 3 years experience in  Android Development and currently learning React native.
-- 💞️ I’m looking to collaborate on Mobile application Development
+- 👀 I’m interested in Software Development
+- 🌱 I have 4 years experience in Web development and  Android Development. Currently learning React and Ionic Vue
+- 💞️ I’m looking to collaborate on Web and  Mobile application Development.
 - 📫 How to reach me nickson.majawa@gmail.com
 
 <!---
